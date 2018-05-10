@@ -1,0 +1,5 @@
+*\~
+*.import.scm
+*.so
+test
+tiler
